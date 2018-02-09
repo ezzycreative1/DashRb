@@ -12,4 +12,6 @@
 //
 //= require rails-ujs
 //= require turbolinks
-//= require_tree .
+= require adminlte
+= require jQuery-3.3.1.min
+= require_tree  
