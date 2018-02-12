@@ -12,6 +12,7 @@
 //
 //= require rails-ujs
 //= require turbolinks
-= require adminlte
-= require jQuery-3.3.1.min
+= require ./vendor/assets/javascripts/AdminLTE
+= require ./vendor/assets/javascripts/jQuery-3.3.1.min
+= require ./vendor/assets/javascripts/bootstrap.min
 = require_tree  
